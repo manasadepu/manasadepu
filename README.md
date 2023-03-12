@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manasadepu
 - 👀 I’m interested in working on more projects and learning new technologies
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C++ and Microsoft Azure
 
 <!---
 manasadepu/manasadepu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
